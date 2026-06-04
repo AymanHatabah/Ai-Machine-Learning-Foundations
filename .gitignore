@@ -1,0 +1,19 @@
+#1.cash files and temporary files produced by Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# 2.environment files and virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# 3.cache files and checkpoints from Jupyter Notebooks
+.ipynb_checkpoints/
+.virtual_documents/
+
+# 4. system files and temporary files produced by the operating system (Windows or macOS)
+.DS_Store
+Thumbs.db
